@@ -1,0 +1,13 @@
+div{
+  display: flex;
+  justify-items: center;
+  align-items: center;
+}
+button{
+  background-color: gray;
+  border-radius: 10px;
+}
+p{
+  display: flex;
+  flex-direction: row;
+}
